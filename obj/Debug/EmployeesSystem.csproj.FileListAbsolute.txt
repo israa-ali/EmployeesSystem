@@ -1,0 +1,18 @@
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\bin\Debug\EmployeesSystem.exe.config
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\bin\Debug\EmployeesSystem.exe
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\bin\Debug\EmployeesSystem.pdb
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\obj\Debug\EmployeesSystem.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\obj\Debug\EmployeesSystem.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\obj\Debug\EmployeesSystem.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\obj\Debug\EmployeesSystem.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\obj\Debug\EmployeesSystem.exe
+C:\Users\HP\Documents\Visual Studio 2019\Projects\CCharp\EmployeesSystem\obj\Debug\EmployeesSystem.pdb
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\bin\Debug\EmployeesSystem.exe.config
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\bin\Debug\EmployeesSystem.exe
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\bin\Debug\EmployeesSystem.pdb
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\obj\Debug\EmployeesSystem.csprojAssemblyReference.cache
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\obj\Debug\EmployeesSystem.Form1.resources
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\obj\Debug\EmployeesSystem.Properties.Resources.resources
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\obj\Debug\EmployeesSystem.csproj.GenerateResource.cache
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\obj\Debug\EmployeesSystem.exe
+C:\Users\LINK\Downloads\Telegram Desktop\EmployeesSystem\obj\Debug\EmployeesSystem.pdb
